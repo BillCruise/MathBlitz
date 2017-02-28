@@ -1,10 +1,10 @@
-# MathBlitz
+# [Math Blitz!](https://play.google.com/store/apps/details?id=com.billthelizard.mathblitz&hl=en)
 
 ## Privacy Policy
 
 Last updated: February 28, 2017
 
-Your privacy is very important. This privacy policy informs you about what data we collect and how we use that information when you run our app on your device. 
+Your privacy is very important. This privacy policy informs you about what data we collect and how we use that information when you run [Math Blitz!](https://play.google.com/store/apps/details?id=com.billthelizard.mathblitz&hl=en) on your device. 
 
 ## What information we collect: 
 
