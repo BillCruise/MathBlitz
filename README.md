@@ -4,7 +4,7 @@
 
 Last updated: February 28, 2017
 
-Your privacy is very important. This privacy policy informs you about what data we collect and how we use that information when you run [Math Blitz!](https://play.google.com/store/apps/details?id=com.billthelizard.mathblitz&hl=en) on your device. 
+Your privacy is very important. This privacy policy informs you about what data is collected and how it is used when you run [Math Blitz!](https://play.google.com/store/apps/details?id=com.billthelizard.mathblitz&hl=en) on your device. 
 
 ## What information we collect: 
 
@@ -17,7 +17,7 @@ Also some third party services such as Google Play will share certain data with 
 
 Our apps show ads from [Google Admob](https://www.google.com/admob/). This company may collect other information outside of our reach. You should read their privacy policy if you are unsure of what data they collect. We do not work with ad providers who have shown poor handling of personal information in the past. 
 
-Since ads are a vital part of our business, we take great care in selecting advertising partners. We do not work with companies delivering ads of a pornographic nature or other inappropriate content. As we do not have direct control of which ads are shown in our apps at any given moment, we encourage you to contact us if you find ads in our apps that violate this policy. 
+Since ads are a vital part of providing Math Blitz! as a free app, we take great care in selecting advertising partners. We do not work with companies delivering ads of a pornographic nature or other inappropriate content. As we do not have direct control of which ads are shown in our apps at any given moment, we encourage you to contact us if you find ads in our apps that violate this policy. 
 
 ## How we use and disclose information collected: 
 
